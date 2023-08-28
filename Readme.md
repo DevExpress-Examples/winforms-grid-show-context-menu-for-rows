@@ -3,22 +3,22 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E712)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
 
-* **[FormGridMenu.cs](./CS/FormGridMenu.cs) (VB: [FormGridMenu.vb](./VB/FormGridMenu.vb))**
-<!-- default file list end -->
-#  How to show a context menu for grid rows
+#  WinForms Data Grid - How to display a context menu for rows
+
+This example shows how to display a custom context menu when the user righ-clicks on a data row.
 
 
-<p>This is an example for the <a href="https://www.devexpress.com/Support/Center/p/A1386">How to show a context menu for grid rows</a> Knowledge Base article. Please refer to the article for the explanation.</p>
+## Files to Review
 
-<b>See also:</b>
+* [FormGridMenu.cs](./CS/FormGridMenu.cs) (VB: [FormGridMenu.vb](./VB/FormGridMenu.vb))
 
-[DevExpress WinForms Cheat Sheets - Context Menus](https://go.devexpress.com/CheatSheets_WinForms_Examples_T929350.aspx)
+## Documentation
 
-[DevExpress WinForms Troubleshooting - Grid Control](https://go.devexpress.com/CheatSheets_WinForms_Examples_T934742.aspx)
+* [Popup and Context Menus](https://docs.devexpress.com/WindowsForms/3505/controls-and-libraries/data-grid/popup-menus)
+* [GridView.PopupMenuShowing](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.PopupMenuShowing)
 
-<br/>
+## See Also
 
-
+* [DevExpress WinForms Cheat Sheets - Context Menus](https://go.devexpress.com/CheatSheets_WinForms_Examples_T929350.aspx)
+* [DevExpress WinForms Troubleshooting - Grid Control](https://go.devexpress.com/CheatSheets_WinForms_Examples_T934742.aspx)
