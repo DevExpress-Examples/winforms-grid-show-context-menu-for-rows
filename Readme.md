@@ -6,7 +6,7 @@
 
 #  WinForms Data Grid - How to display a context menu for rows
 
-This example shows how to display a custom context menu when the user righ-clicks on a data row.
+This example shows how to display a custom context menu when the user right-clicks on a data row.
 
 
 ## Files to Review
