@@ -25,7 +25,7 @@ namespace RowsPopupMenu {
 
         private void barButtonItem_Edit_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e) {
             GridHitInfo info = GetHitInfo(e.Link);
-            info.View.ShowEditor();
+            info?.View.ShowEditor();
         }
 
         private void barButtonItem_Delete_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e) {
