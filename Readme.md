@@ -24,7 +24,7 @@ This example shows how to display a custom context menu when the user right-clic
 * [DevExpress WinForms Cheat Sheets - Context Menus](https://go.devexpress.com/CheatSheets_WinForms_Examples_T929350.aspx)
 * [DevExpress WinForms Troubleshooting - Grid Control](https://go.devexpress.com/CheatSheets_WinForms_Examples_T934742.aspx)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-show-context-menu-for-rows&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-show-context-menu-for-rows&~~~was_helpful=no)
 
